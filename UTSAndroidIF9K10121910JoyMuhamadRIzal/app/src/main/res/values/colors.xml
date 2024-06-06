@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="emerald">#2ecc71</color>
+    <color name="peterriver">#3498db</color>
+    <color name="sunflower">#f1c40f</color>
+    <color name="amethyst">#9b59b6</color>
+    <color name="alizarin">#e74c3c</color>
+    <color name="midnightblue">#2c3e50</color>
+    <color name="hitam">#424242</color>
+
+</resources>
